@@ -1,5 +1,5 @@
-# Hand-gesture-recognition-using-OpenCv-and-Cnn
-This project is the combination of OpenCv and Cnn model. OpenCv is used to capture the current frame from your webcam and further Cnn is used to classify the image in the current frame.
+# Hand-gesture-recognition-using-CNN-and-OpenCv
+This project is the combination of CNN and OpenCv model. OpenCv is used to capture the current frame from your webcam and further Cnn is used to classify the image in the current frame.
 The dataset used has 7 hand gestures
 
 0: Fist, 1: Five, 2: None, 3: Okay, 4: Peace, 5: Rad, 6: Straight, 7: Thumbs
